@@ -51,4 +51,4 @@ onutemaster777
 
 These only for the animations, include the creator has made with Macromedia Flash 8 its blend, image or a shape from the draw.
 
-You can see the [full preview](http://wrapper-online-gold2.herokuapp.com) over there.
+You can see the <a href="http://wrapper-online-gold2.herokuapp.com">full preview</a> over there.
