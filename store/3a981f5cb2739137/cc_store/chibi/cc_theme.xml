@@ -3147,46 +3147,7 @@
 		<state id="whatever" filename="whatever.swf" />
 		<state id="wink" filename="wink.swf" />
 	</component>
-	<component type="eye" id="sig_eye" path="sig_eye" name="sig_eye" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
-		<state id="angry" filename="angry.swf" />
-		<state id="blue" filename="blue.swf" />
-		<state id="break" filename="break.swf" />
-		<state id="broken01" filename="broken01.swf" />
-		<state id="broken02" filename="broken02.swf" />
-		<state id="closed_eye" filename="closed_eye.swf" />
-		<state id="confundance" filename="confundance.swf" />
-		<state id="confused" filename="confused.swf" />
-		<state id="cry" filename="cry.swf" />
-		<state id="cry_cute" filename="cry_cute.swf" />
-		<state id="cute" filename="cute.swf" />
-		<state id="default" filename="default.swf" />
-		<state id="desperate" filename="desperate.swf" />
-		<state id="embarrassed" filename="embarrassed.swf" />
-		<state id="fail" filename="fail.swf" />
-		<state id="ghost02" filename="ghost02.swf" />
-		<state id="hang_up_phone" filename="hang_up_phone.swf" />
-		<state id="happy_cute" filename="happy_cute.swf" />
-		<state id="kimaochi" filename="kimaochi.swf" />
-		<state id="laugh" filename="laugh.swf" />
-		<state id="look_down" filename="look_down.swf" />
-		<state id="love02" filename="love02.swf" />
-		<state id="mischievous" filename="mischievous.swf" />
-		<state id="no" filename="no.swf" />
-		<state id="pain" filename="pain.swf" />
-		<state id="phone_ringing" filename="phone_ringing.swf" />
-		<state id="pick_up_phone" filename="pick_up_phone.swf" />
-		<state id="plan" filename="plan.swf" />
-		<state id="sad" filename="sad.swf" />
-		<state id="shock" filename="shock.swf" />
-		<state id="sick" filename="sick.swf" />
-		<state id="sick02" filename="sick02.swf" />
-		<state id="sleepy" filename="sleepy.swf" />
-		<state id="touch" filename="touch.swf" />
-		<state id="trouble" filename="trouble.swf" />
-		<state id="up" filename="up.swf" />
-		<state id="whatever" filename="whatever.swf" />
-		<state id="wink" filename="wink.swf" />
-	</component>
+	
 
 
 	<!-- EYEBROWS START HERE -->

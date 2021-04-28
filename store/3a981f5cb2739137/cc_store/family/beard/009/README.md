@@ -1,1 +1,0 @@
-new asset 1
