@@ -9,7 +9,7 @@ Simply make a pull request.
 First steps, fork the server and activate the github-pages (important).
 
 ## To Use the Asset Library
-In [Wrapper](https://github.com/josephcrosmanplays532/Wrapper_Online_Gold_Backend), Set the contents of `config.json` to:
+In <a href="https://github.com/josephcrosmanplays532/Wrapper_Online_Gold_Backend">Wrapper</a>, Set the contents of `config.json` to:
 ```
 {
         "SWF_URL": "https:///josephcrosmanplays532.github.io/New-Wrapper-Online-Gold-Assets/animation/414827163ad4eb60",
