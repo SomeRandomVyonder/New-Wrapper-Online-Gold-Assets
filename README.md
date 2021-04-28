@@ -12,9 +12,9 @@ First steps, fork the server and activate the github-pages (important).
 In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), Set the contents of `config.json` to:
 ```
 {
-        "SWF_URL": "https:///onutemaster777.github.io/GoAnimate-Modded-Assets/animation/414827163ad4eb60",
-        "STORE_URL": "https:///onutemaster777.github.io/GoAnimate-Modded-Assets/store/3a981f5cb2739137",
-        "CLIENT_URL": "https:///onutemaster777.github.io/GoAnimate-Modded-Assets/static/ad44370a650793d9"
+        "SWF_URL": "https:///josephcrosmanplays532.github.io/New-Wrapper-Online-Gold-Assets/animation/414827163ad4eb60",
+        "STORE_URL": "https:///josephcrosmanplays532.github.io/New-Wrapper-Online-Gold-Assets/store/3a981f5cb2739137",
+        "CLIENT_URL": "https:///josephcrosmanplays532.github.io/New-Wrapper-Online-Gold-Assets/static/ad44370a650793d9"
 }
 ```
 
@@ -51,4 +51,4 @@ onutemaster777
 
 These only for the animations, include the creator has made with Macromedia Flash 8 its blend, image or a shape from the draw.
 
-You can see the [full preview](http://78.63.40.199:700) over there.
+You can see the [full preview](http://wrapper-online-gold2.herokuapp.com) over there.
